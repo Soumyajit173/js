@@ -1,2 +1,2 @@
-# js
+# JavaScript
 Javascript with ChaiAurCode
